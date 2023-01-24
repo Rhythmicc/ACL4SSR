@@ -1,0 +1,3 @@
+# 不希望被解析为中国的域名
+
+DOMAIN-SUFFIX,ihezu.cn
