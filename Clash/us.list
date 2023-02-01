@@ -11,3 +11,11 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,openai.com
+
+# DeepL
+
+DOMAIN-SUFFIX,deepl.com
+
+# openai
+
+DOMAIN-SUFFIX,openai.com
