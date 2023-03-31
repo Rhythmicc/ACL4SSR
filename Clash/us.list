@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,deepl.com
 # openai
 
 DOMAIN-KEYWORD,openai
+
+# Other
+
+DOMAIN-SUFFIX,scala-lang.org
