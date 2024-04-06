@@ -23,9 +23,13 @@ DOMAIN-KEYWORD,openai
 # ARC AI
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 
+# Gemini
+
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+
 # Other
 
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,learning.gem5.org
-DOMAIN-SUFFIX,gemini.google.com
