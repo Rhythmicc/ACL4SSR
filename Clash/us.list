@@ -33,3 +33,8 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,learning.gem5.org
+
+# META
+
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
