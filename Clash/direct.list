@@ -23,3 +23,4 @@ DOMAIN-SUFFIX,tvshow.top
 DOMAIN-SUFFIX,mini.lhc.studio
 IP-CIDR,43.155.124.138/32,no-resolve
 IP-CIDR,192.18.0.2/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
