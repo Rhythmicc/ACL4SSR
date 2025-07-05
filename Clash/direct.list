@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,api.xhofe.top
 DOMAIN-SUFFIX,100m.lhc.studio
 DOMAIN-SUFFIX,tvshow.top
 DOMAIN-SUFFIX,mini.lhc.studio
+IP-CIDR,43.155.124.138/32,no-resolve
