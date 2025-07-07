@@ -1,7 +1,6 @@
 # Direct
 
-DOMAIN-SUFFIX,.cn
-DOMAIN-SUFFIX,microsoftonline.cn
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xilinx-ax-dl.entitlenow.com
 DOMAIN-SUFFIX,mirrors.tencentyun.com
 DOMAIN-SUFFIX,qq.com
