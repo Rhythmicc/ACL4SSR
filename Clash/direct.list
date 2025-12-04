@@ -19,9 +19,8 @@ DOMAIN-SUFFIX,iflysec.com
 DOMAIN-SUFFIX,xunlei.maihuiyuan.com
 DOMAIN-SUFFIX,114menhu.com
 DOMAIN-SUFFIX,api.xhofe.top
-DOMAIN-SUFFIX,100m.lhc.studio
 DOMAIN-SUFFIX,tvshow.top
-DOMAIN-SUFFIX,mini.lhc.studio
+DOMAIN-SUFFIX,mini.rhythm.icu
 IP-CIDR,43.155.124.138/32,no-resolve
 IP-CIDR,192.18.0.2/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
